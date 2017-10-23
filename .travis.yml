@@ -6,4 +6,4 @@ install:
 # command to run tests
 script:
   - cd superlists/
-  - python manage.py test
+  - python manage.py test lists/
